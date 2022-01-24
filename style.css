@@ -2,7 +2,12 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
-footer img{
-    width: 135px;
-    height: 40px;
+.card-title{
+    color: #231D4F;
+}
+button a{
+    text-decoration: none;
+}
+.border{
+    background-color: #F496D1;
 }
