@@ -11,3 +11,6 @@ button a{
 .border{
     background-color: #F496D1;
 }
+.special-card {
+    border-radius: 20px;
+}
